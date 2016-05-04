@@ -1,2 +1,2 @@
-# MilanoJS-DiscoveringRxJS
-Demo code for "Discovering RxJS" speech held at MilanoJS anniversary in 2016
+# wec2015-TamingAsyncUsingRxJS
+DEMO code for speech "[Discovering RxJS](http://)" at [MilanoJS](http://milanojs.com/) 2016 anniversary.
